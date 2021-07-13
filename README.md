@@ -19,7 +19,7 @@ Project Requirements:
 ## Application Simulate Guide
 1. To test the api's please use [Postman](https://www.postman.com/downloads/).
 2. To list the members please make a `get` request on this api `http://localhost:1337/api/members`
-3. To add a member make a `post` request on this api `http://localhost:1337/api/member`
+3. To add a member make a `post` request on this api `http://localhost:1337/api/member` and add the json data on the request body
 
 N.B. Make sure mongodb is installed and running already.
 
